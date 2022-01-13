@@ -1,6 +1,6 @@
 # pyvfx-boilerplate
 
-![Test](https://github.com/fredrikaverpil/pyvfx-boilerplate/workflows/Test/badge.svg)
+![Tests](https://github.com/fredrikaverpil/pyvfx-boilerplate/workflows/Tests/badge.svg) ![PyPI](https://github.com/fredrikaverpil/pyvfx-boilerplate/workflows/PyPI/badge.svg)
 
 A boilerplate for creating PyQt4/PySide and PyQt5/PySide2 applications running in Maya, Nuke, Blender, 3DS Max, Houdini, Unreal Engine or completely standalone.
 
@@ -23,7 +23,7 @@ For details, see [CHANGELOG.md](CHANGELOG.md).
 Easy way:
 
 ```bash
-pip install git+https://github.com/fredrikaverpil/pyvfx-boilerplate
+pip install pyvfx-boilerplate
 ```
 
 Long way:
